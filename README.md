@@ -9,3 +9,6 @@ This Python-based tool simulates the output of a Next-Generation Sequencing (NGS
 * ### Standardized Output: Generates valid FASTQ files compatible with downstream bioinformatics tools (BWA, Samtools, FastQC).
 ## 📊 Performance & Validation
 The simulator has been tested by generating 1.5 million bases with a consistent noise ratio of ~10%, accurately reflecting the expected quality drop at the end of sequencing reads.
+
+
+<img width="1200" height="600" alt="graph" src="https://github.com/user-attachments/assets/13541af5-6ea7-41fe-ae48-02c80a2f40c9" />
